@@ -5,7 +5,7 @@ Welcome! My name is Dianna Chen and I'm a software engineer. Prior to attending 
 - 🔭 I graduated from the Web Development/Software Engineering Bootcamp at Fullstack Academy
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/dianna-chen/)!
-- 📝 Here's my [resume](https://drive.google.com/file/d/1gXAxTcZkm108WphCGs00tUmDHtY_8-Pj/view?usp=share_link).
+- 📝 Here's my [resume](https://drive.google.com/file/d/15E0K65YY3uqYMFsYLLtLCvf_-5h4lh4v/view?usp=sharing).
 
 
 ## Languages and Tools 🛠️
